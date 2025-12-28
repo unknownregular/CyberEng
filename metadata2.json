@@ -1,0 +1,24 @@
+{
+  "name": "Cyber Builder #1",
+  "symbol": "CBLD",
+  "description": "A 1/1 pixel-art cyber engineer with a determined expression.",
+  "image": "IMAGE_URL_HERE",
+  "attributes": [
+    { "trait_type": "Role", "value": "Hacker" },
+    { "trait_type": "Vibe", "value": "Cyber" },
+    { "trait_type": "Gear", "value": "Blue Encased Laptop, Black Gloves, Black Face Mask" },
+    { "trait_type": "Eyes", "value": "Neon Blue" },
+    { "trait_type": "Hoodie", "value": "Purple Pull-over Hoodie" },
+    { "trait_type": "Background", "value": "Salmon Pixel" },
+    { "trait_type": "Expression", "value": "Focused" }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "IMAGE_URL_HERE",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
