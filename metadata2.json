@@ -15,10 +15,11 @@
   "properties": {
     "files": [
       {
-        "uri": "IMAGE_URL_HERE",
+        "uri": "https://raw.githubusercontent.com/unknownregular/CyberEng/refs/heads/main/3214251.jpeg",
         "type": "image/png"
       }
     ],
     "category": "image"
   }
+
 }
